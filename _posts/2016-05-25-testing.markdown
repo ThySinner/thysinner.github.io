@@ -1,0 +1,13 @@
+---
+layout: default
+title: My First Blog
+---
+
+h2. {{ page.title }}
+
+My First Blog
+* a
+* b
+* c
+
+{{ page.date | date_to_string }}
