@@ -4,7 +4,7 @@ email:       dawnshepherd0909@gmail.com
 #author:      John Otander
 #description: #
 baseurl:     ""
-url:         "http://127.0.0.1:4000"
+url:         ""
 date_format: "%b %-d, %Y"
 
 # Google services
