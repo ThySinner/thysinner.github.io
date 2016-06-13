@@ -6,6 +6,7 @@ email:       dawnshepherd0909@gmail.com
 baseurl:     ""
 url:         ""
 date_format: "%b %-d, %Y"
+incremental: true
 
 # Google services
 google_verification:
