@@ -1,12 +1,12 @@
 # Site settings
 title:       Thy Sinner
 email:       dawnshepherd0909@gmail.com
-#author:      John Otander
+author:      Dawn
 #description: #
 baseurl:     ""
 url:         ""
 date_format: "%b %-d, %Y"
-incremental: true
+incremental: false
 
 # Google services
 google_verification:
